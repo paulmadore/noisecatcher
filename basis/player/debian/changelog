@@ -1,0 +1,11 @@
+vocal (1.0+r284-0~ubuntu0.3.1) trusty; urgency=low
+
+  * Auto build.
+
+ -- Nathan Dyer <nathandyer.me@gmail.com>  Fri, 17 Apr 2015 01:37:12 +0000
+
+vocal (1.0) trusty; urgency=low
+
+  * Vocal's first release!
+
+ -- Nathan Dyer <mail@nathandyer.me>  Sat, 04 Apr 2015 11:30:00 -0500
